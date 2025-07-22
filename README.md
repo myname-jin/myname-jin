@@ -40,6 +40,11 @@
 |----------|------|------|
 | 발표 채점 시스템 | Flask + Whisper + GPT 기반 발표 자동 채점 웹앱 | [🔗 보기](https://github.com/myname-jin/presentation-grader) |
 
+---
+
+### 📚 Study Projects
+
+- [컴퓨터구조 실습](https://github.com/myname-jin/myname-jin/tree/main/study/arduino-computer-architecture-lab)
 
 ---
 
