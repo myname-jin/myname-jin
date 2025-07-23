@@ -55,7 +55,7 @@
 
 | 연도 | 내용 | 링크 |
 |------|------|------|
-| 2022 | 파란사다리 괌 글로벌 연수 | [🔗 바로가기](https://github.com/myname-jin/myname-jin/tree/main/programs) |
+| 2022 | 파란사다리 괌 글로벌 연수 | [🔗 바로가기](https://github.com/myname-jin/myname-jin/tree/main/programs/README.md) |
 
 ---
 
