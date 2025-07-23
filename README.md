@@ -41,7 +41,8 @@
 |------|------------|
 | 2025 | [📖 중앙도서관 독서토론대회 우수상 🥈](https://github.com/myname-jin/myname-jin/tree/main/awards/reading_discussion_award) |
 | 2025 | [🤖 동의 AI·SW융합 해커톤대회 장려상 🏅](https://github.com/myname-jin/OvernightAI) |
-| 2025 | 동남 sw테스팅 대회 |
+| 2025 | [🧪 동남 SW 테스팅 대회[대회이름,리드미꾸며야함] (현장 참여)](https://github.com/myname-jin/myname-jin/blob/main/competitions/%EB%8F%99%EB%82%A8SW%ED%85%8C%EC%8A%A4%ED%8A%B8README.md) |
+
 ---
 
 ## 🚀 대표 프로젝트
