@@ -40,5 +40,4 @@
 
 ## 🔗 관련 사이트
 
-- [한국장학재단 파란사다리 사업 소개](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship07_01)
 - [University of Guam](https://www.uog.edu/)
