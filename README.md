@@ -35,13 +35,13 @@
 
 ---
 
-### 🏆 수상 내역
+### 🏆 수상 및 현장 참여 내역
 
 | 연도 | 수상 내용 |
 |------|------------|
 | 2025 | [📖 중앙도서관 독서토론대회 우수상 🥈](https://github.com/myname-jin/myname-jin/tree/main/awards/reading_discussion_award) |
 | 2025 | [🤖 동의 AI·SW융합 해커톤대회 장려상 🏅](https://github.com/myname-jin/OvernightAI) |
-
+| 2025 | 동남 sw테스팅 대회 |
 ---
 
 ## 🚀 대표 프로젝트
