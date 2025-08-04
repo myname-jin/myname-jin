@@ -56,7 +56,7 @@
 | 연도 | 내용 | 링크 |
 |------|------|------|
 | 2022 | 파란사다리 괌 글로벌 연수 | [🔗 바로가기](https://github.com/myname-jin/myname-jin/tree/main/programs/README.md) |
-| 2023 | 군SW·AI역량강화 수료증 | [🔗 바로가기](https://github.com/myname-jin/myname-jin/raw/main/programs/skyprogram/sky.pdf) |
+| 2023 | 군SW·AI역량강화 수료증 | [🔗 바로가기](https://github.com/myname-jin/myname-jin/blob/main/programs/skyprogram/sky.pdf) |
 
 ---
 
@@ -95,5 +95,6 @@
 
 <p><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/></p>
+
 
 
