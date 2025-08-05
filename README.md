@@ -42,7 +42,7 @@
 | 2025 | [📖 중앙도서관 독서토론대회 우수상 🥈](https://github.com/myname-jin/myname-jin/tree/main/awards/reading_discussion_award) |
 | 2025 | [🤖 동의 AI·SW융합 해커톤대회 장려상 🏅](https://github.com/myname-jin/OvernightAI) |
 | 2025 | [튜터링 최우수](상장 받으면 링크 추가하기) | 
-| 2025 | sw품질|
+| 2025 | [2025 동남권 SW 품질캠프 참여](https://github.com/myname-jin/myname-jin/blob/main/competitions/testing) |
 ---
 
 ## 🚀 대표 프로젝트
@@ -96,6 +96,7 @@
 
 <p><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/></p>
+
 
 
 
