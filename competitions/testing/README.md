@@ -27,12 +27,12 @@ SW 품질캠프에 참여하였습니다.
 ### 🔹 참가
 <table>
   <tr>
-    <td><img src="./test.pdf" width="320"/></td>
-    <td><img src="./품질캠프 명찰.jpg" width="320"/></td>
+    <td><img src="./test.jpg" width="400" height="400"/></td>
+    <td><img src="./품질캠프 명찰.jpg" width="400" height="400"/></td>
   </tr>
 </table>
 
-
 ---
+
 
 
