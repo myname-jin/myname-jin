@@ -50,7 +50,7 @@
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
 | 발표 채점 시스템 | Flask + Whisper + GPT 기반 발표 자동 채점 웹앱 | [🔗 보기](https://github.com/myname-jin/OvernightAI) |
-
+| 강의실 및 실습실 예약 시스템 | Socket 통신을 이용한 서버 구축 포함 | [🔗 보기](https://github.com/myname-jin/roomify) |
 ---
 ## 🏅 수료 항목
 
@@ -96,6 +96,7 @@
 
 <p><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/></p>
+
 
 
 
