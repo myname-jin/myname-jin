@@ -1,7 +1,6 @@
 
-# 👋 안녕하세요! 저는 AI 개발자 진(JIN)입니다.
+# 👋 안녕하세요! 저는 AI 개발자 임진호입니다.
 
-연구용 코드와 실전형 프로젝트를 함께 해내는 개발자를 지향합니다.
 
 ---
 ## 🧑‍💻 About Me
@@ -43,6 +42,13 @@
 | 2025 | [🤖 동의 AI·SW융합 해커톤대회 장려상 🏅](https://github.com/myname-jin/OvernightAI) |
 | 2025 | [🖥️ 전공 튜터링 최우수상 🥇](https://github.com/myname-jin/myname-jin/blob/main/awards/reading_discussion_award/튜터링최우수상장.pdf) | 
 | 2025 | [2025 동남권 SW 품질캠프 참여](https://github.com/myname-jin/myname-jin/blob/main/competitions/testing) |
+---
+### 📜 자격증 취득 내역 
+
+| 연도 | 자격증 명 |
+|------|------------|
+| 2025 | [🛠️SQL Developer](https://github.com/myname-jin/myname-jin/tree/main/awards/reading_discussion_award) |
+
 ---
 
 ## 🚀 대표 프로젝트
@@ -96,6 +102,7 @@
 
 <p><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/></p>
+
 
 
 
