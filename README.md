@@ -47,7 +47,7 @@
 
 | 연도 | 자격증 명 |
 |------|------------|
-| 2025 | [🛠️SQL Developer](https://github.com/myname-jin/myname-jin/tree/main/awards/certificates/SQLD자격증증명.PDF) |
+| 2025 | [🛠️SQL Developer]((https://github.com/myname-jin/myname-jin/blob/main/certificates/SQLD자격증증명.pdf) |
 
 ---
 
@@ -102,6 +102,7 @@
 
 <p><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/></p>
+
 
 
 
