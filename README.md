@@ -1,5 +1,5 @@
 
-# 👋 안녕하세요! 저는 AI 개발자 임진호입니다.
+# 👋 안녕하세요! 저는 임진호입니다.
 
 
 ---
@@ -27,11 +27,6 @@
 </table>
 
 
-
-### 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=myname-jin&theme=gruvbox&row=1&column=7)](https://github.com/myname-jin)
-
-
 ---
 
 ### 🏆 수상 및 대회 참여내역
@@ -57,6 +52,8 @@
 |----------|------|------|
 | 발표 채점 시스템 | Flask + Whisper + GPT 기반 발표 자동 채점 웹앱 | [🔗 보기](https://github.com/myname-jin/OvernightAI) |
 | 강의실 및 실습실 예약 시스템 | Socket 통신을 이용한 서버 구축 포함 | [🔗 보기](https://github.com/myname-jin/roomify) |
+| 영화 예매 시스템 DB | RDBMS 논리/물리 설계 및 Pro*C 트랜잭션 구현 | [🔗 보기](https://github.com/myname-jin/DBproject) |
+| 리눅스 시스템 프로그래밍 | Socket, Thread, IPC를 활용한 시스템 프로그래밍 실습 | [🔗 01(기초)](https://github.com/myname-jin/Linux-System-01) / [🔗 02(심화)](https://github.com/myname-jin/Linux-System-02) |
 ---
 ## 🏅 수료 항목
 
@@ -102,6 +99,8 @@
 
 <p><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/></p>
+
+
 
 
 
