@@ -67,7 +67,7 @@
 ### 📚 Study Projects
 
 - [컴퓨터구조 실습](https://github.com/myname-jin/myname-jin/tree/main/study/arduino-computer-architecture-lab)
-
+- [리눅스프로그래밍](https://github.com/myname-jin/lab)
 ---
 
 ## 🧠 기술 스택
@@ -99,6 +99,7 @@
 
 <p><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/></p>
+
 
 
 
