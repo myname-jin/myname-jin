@@ -51,8 +51,9 @@
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
 | 발표 채점 시스템 | Flask + Whisper + GPT 기반 발표 자동 채점 웹앱 | [🔗 보기](https://github.com/myname-jin/OvernightAI) |
+| ↳ **Overnight.AI (Ver.2)** | **안드로이드 앱 전환** 및 **Vision/Audio 멀티모달 파이프라인** 구축 | [🔗 보기](https://github.com/myname-jin/CapstoneDesign_Server) |
 | 강의실 및 실습실 예약 시스템 | Socket 통신을 이용한 서버 구축 포함 | [🔗 보기](https://github.com/myname-jin/roomify) |
-| ↳ **디자인 패턴 리팩토링** | 위 프로젝트에 디자인 패턴**을 적용하여 구조 개선 | [✨ 보기](https://github.com/myname-jin/Design_Pattern_Server) |
+| ↳ **디자인 패턴 리팩토링** | 위 프로젝트에 디자인 패턴**을 적용하여 구조 개선 | [🔗 보기](https://github.com/myname-jin/Design_Pattern_Server) |
 | 영화 예매 시스템 DB | RDBMS 논리/물리 설계 및 Pro*C 트랜잭션 구현 | [🔗 보기](https://github.com/myname-jin/DBproject) |
 | 리눅스 시스템 프로그래밍 | Socket, Thread, IPC를 활용한 시스템 프로그래밍 실습 | [🔗 01(기초)](https://github.com/myname-jin/Linux-System-01) / [🔗 02(심화)](https://github.com/myname-jin/Linux-System-02) |
 ---
@@ -100,6 +101,7 @@
 
 <p><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/></p>
+
 
 
 
